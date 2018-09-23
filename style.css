@@ -1,0 +1,37 @@
+body {
+background-color:#c68ae7;
+}
+.row{   
+    display:flex;
+    justify-content:center;
+    justify-content: space-around;
+    background-color:#aa71ae;
+    color:white;
+    font-size:20px;
+    font-family: 'Rajdhani', sans-serif;
+}
+.headshot{
+    border-radius:50%;
+    width:20%;
+}
+.mid{
+    background-color:#c68ae7;
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+   font-family: 'Aclonica', sans-serif;
+}
+.aboutme{
+    display: flex;
+    justify-content:center;
+    background-color:#c68ae7;
+}
+.contact {
+ background-color: #aa71ae;
+}
+a {
+    color:white;
+    font-family: 'Rajdhani', sans-serif;
+}
