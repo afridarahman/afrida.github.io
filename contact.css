@@ -1,5 +1,9 @@
-body {
-background-color:#c68ae7;
+.emailgithub {
+    color:white;
+    text-align:center;
+    font-size:30px;
+    padding: 50px;
+    background-color:#c68ae7;
 }
 .row{   
     display:flex;
@@ -34,10 +38,4 @@ background-color:#c68ae7;
 a {
     color:white;
     font-family: 'Rajdhani', sans-serif;
-}
-.aboutme {
-    color:white;
-    text-align:center;
-    font-size:30px;
-    padding: 50px;
 }
